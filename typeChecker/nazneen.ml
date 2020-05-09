@@ -1,10 +1,3 @@
-(*   Name: Amtul Nazneen (AXN180041)
-   * Collaborator: Carla Vazquez (CPV150030)
-   * Sources:
-   *        - https://caml.inria.fr/pub/docs/manual-ocaml/libref/List.html
-   *        - https://ocaml.org/learn/tutorials/99problems.html
-   *        - OCaml Transcripts from class, Lecture Notes *)
-
 open Simpltypes;;
 
 type vartyp = Undeclared| VTyp of (ityp * bool)

@@ -1,12 +1,5 @@
 open Simpltypes
 
-(*   Name: Amtul Nazneen (AXN180041)
-   * Collaborator: Carla Vazquez (CPV150030)
-   * Sources:
-   *        - https://caml.inria.fr/pub/docs/manual-ocaml/libref/List.html
-   *        - https://ocaml.org/learn/tutorials/99problems.html
-   *        - OCaml Transcripts from class, Previous Homework Solutions *)
-
 (* The 'store' models the machine's memory as a mapping from
  * variable names to integers. *)
 type store = varname -> int
