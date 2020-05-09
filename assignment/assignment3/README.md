@@ -1,2 +1,0 @@
-# Operational Semantics
-Written proofs
